@@ -1,0 +1,15 @@
+export const homeArtistThree = {
+    id: 'new',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topline: "",
+    headline: "The Developers",
+    description: "There are 2 developers working here at TrioWolf. They are Selena Hebert and Tisha Di Fresco",
+    buttonlabel: 'Learn more',
+    buttonicon: true,
+    imgStart: false,
+    dark: true,
+    primary: true,
+    darkText: false,
+};  
