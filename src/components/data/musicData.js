@@ -5,7 +5,7 @@ export const homeArtistTwo = {
     lightTextDesc: false,        
     GWTitle: "grengingwar.com",     
     GWdescription: "Project Description",     
-    BamTitle: "bamvsthewrld.com",     
+    BamTitle: "",     
     Bamdescription: "Project Description",     
     buttonlabel: 'Next',
     imgStart: true,

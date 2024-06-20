@@ -48,7 +48,7 @@ const Thoughts = ({
             </Column1>
             <Column2>
                 <ImgWrap>
-                    <Img src={successfailueimage} alt="singer with tattooed fingers on top of his head" />    
+                    <Img src={successfailueimage} alt="image of success and failure" />    
                 </ImgWrap>
             </Column2>
             </ThoughtsRow>

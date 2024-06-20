@@ -38,10 +38,10 @@ const MusicSection = ({
       <MusicContainer lightBg={lightBg} id={id}>
         <MusicWrapper>
           <MusicRow imgStart={imgStart}>
-            <Column1>
+            {/* <Column1>
               <TextWrapper>
                 <TopLine darkText={darkText}>{BamTitle}</TopLine>
-                {/* <Heading>{headline}</Heading> */}
+                {/* <Heading>{headline}</Heading> 
                 <Subtitle darkText={darkText}>{Bamdescription}</Subtitle>
                 <BtnWrap>
                   <Button
@@ -62,7 +62,7 @@ const MusicSection = ({
                   <Img src={img} alt={alt} />
                 </ImgWrap>
               </TextWrapper>
-            </Column1>
+            </Column1> */}
             <Column2>
               <TextWrapper>
                 <TopLine darkText={darkText}>{GWTitle}</TopLine>

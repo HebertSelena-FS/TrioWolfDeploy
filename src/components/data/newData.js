@@ -5,7 +5,7 @@ export const homeArtistThree = {
     lightTextDesc: true,
     topline: "",
     headline: "The Developers",
-    description: "There are 2 developers working here at TrioWolf. They are Selena Hebert and Tisha Di Fresco",
+    description: "Currently I am a solo developer. I am a full stack developer with a Batchelors from Full Sail University.",
     buttonlabel: 'Learn more',
     buttonicon: true,
     imgStart: false,
